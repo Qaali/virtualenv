@@ -36,7 +36,7 @@ while True:
 					raise
 			if (part):
 				print part
-				request.extend(part)cd
+				request.extend(part)
 				outgoingSocket.sendall(part)
 			outgoingSocket.setblocking(0)
 			try:
