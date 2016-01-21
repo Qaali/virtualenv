@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-#Copyright (c) Kathleen Baker
+#Copyright (c) Qamar Ali
 
 import socket
 
