@@ -21,4 +21,7 @@ while True:
 		break
 
 print response
+<<<<<<< HEAD
 
+=======
+>>>>>>> 149e6d539606896805cc9caa9acd82eb9e053ad2
