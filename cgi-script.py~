@@ -15,4 +15,5 @@ print "<P>"
 print json.dumps(dict(os.environ), indent=4)
 
 print "</BODY></HTML>"
+Status API Training Shop Blog About Pricing
 
